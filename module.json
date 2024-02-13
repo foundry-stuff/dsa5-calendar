@@ -1,0 +1,27 @@
+{
+  "id": "dsa5-calendar",
+  "version": "0.1",
+  "title": "The Dark Eye 5th Ed. - Calendar",
+  "description": "A calendar for TDE5. Ein Kalender DSA5.",
+  "authors": [
+    {
+      "name": "hepp",
+      "url": "https://github.com/foundry-stuff",
+      "discord": "hepp#4928"
+    }
+  ],
+  "url": "https://github.com/foundry-stuff/dsa5-calendar",
+  "manifest": "https://raw.githubusercontent.com/foundry-stuff/dsa5-calendar/main/module.json",
+  "download": "https://github.com/foundry-stuff/dsa5-calendar/releases/download/0.1/module.zip",
+  "bugs": "https://github.com/foundry-stuff/dsa5-calendar/issues",
+  "compatibility": {
+    "verified": "11"
+  },
+  "scripts": [
+    "calendar.js"
+  ],
+  "styles": [
+    "styles/calendar.css"
+  ],
+  "languages": []
+}
